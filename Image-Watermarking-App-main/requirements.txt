@@ -1,0 +1,2 @@
+Pillow==10.1.0
+tkinterdnd2_universal==1.7.3
